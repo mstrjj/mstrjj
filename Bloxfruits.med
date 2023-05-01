@@ -1,0 +1,4 @@
+getgev().CuttayAccontFarm = {
+    ["Enable"] =true,
+    ["Raid if Maxed Blox Fruits"] = false,
+    ["Farm Boss drops if Macedo"] = true,
